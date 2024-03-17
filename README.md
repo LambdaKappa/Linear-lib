@@ -26,7 +26,7 @@ Output:
 #### Fill array with a value ####
 
 ```C++
-ln::Matrix<double> values = ln::fill<double>(5, 5, ln::PI); // Creates a 5x5 array filled with pi
+ln::Matrix<double> values = ln::fill<double>(5, 5, ln::PI); // Create a 5x5 array filled with pi
 ```
 
 ```Ruby
