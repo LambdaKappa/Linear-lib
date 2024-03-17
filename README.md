@@ -9,7 +9,7 @@ You can include header of the library into your code file like this:
 #include "Linear.hpp"
 ```
 
-# Create a new Array #
+## Create a new Array ##
 
 Library's "Matrix" class supports a variety of data types and has different constructors _(Currently choice is not that big)._
 
