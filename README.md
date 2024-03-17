@@ -1,6 +1,6 @@
 # Description #
 
-Linear Algebra library inspired by Python's 'Numpy' library. I am planning to restucture it completely in the following week.
+Linear Algebra library inspired by Python's 'Numpy' library. I am planning to restucture it completely and add much more to it in the following week.
 
 # Examples of use #
 
