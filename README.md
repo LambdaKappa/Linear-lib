@@ -39,7 +39,7 @@ Output:
 Find Matrix transpose
 
 ```C++
-cout << Matrix;
+std::cout << Matrix;
 ```
 
 ```Ruby
@@ -50,7 +50,7 @@ Output:
 ```
 
 ```C++
-cout << Matrix.T();
+std::cout << Matrix.T();
 ```
 
 ```Ruby
