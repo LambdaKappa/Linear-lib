@@ -6,16 +6,16 @@ I am planning to restucture it completely and add much more to it in the followi
 
 # Examples of use #
 
-#### 'Matrix' class is the library's main container ####
 
 You can include library in your code file like this:
 ```C++
 #include "Linear.hpp"
 ```
 
-#### Create a new Array ####
-
+#### 'Matrix' class is the library's main container ####
 Matrix supports a variety of data types and has different constructors _(Currently choice is not that big)._
+
+#### Create an Array ####
 
 ```C++
 ln::Matrix<int> Matrix = {{1, 2, 3, 4, 5}}; 
