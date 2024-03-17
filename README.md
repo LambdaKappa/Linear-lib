@@ -59,5 +59,5 @@ Output:
  [2, 6, 3]]
 ```
 
-Operations like Matrix multiplication are not well optimized and Numpy should handle big Matrices better. 
+Operations like Matrix multiplication are not well optimized and Numpy should handle big Matrices faster. 
 
