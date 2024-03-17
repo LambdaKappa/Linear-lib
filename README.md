@@ -6,6 +6,8 @@ I am planning to restucture it completely and add much more to it in the followi
 
 # Examples of use #
 
+#### 'Matrix' class is the library's main container ####
+
 You can include library in your code file like this:
 ```C++
 #include "Linear.hpp"
