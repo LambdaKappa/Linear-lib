@@ -16,6 +16,10 @@ Library's "Matrix" class supports a variety of data types and has different cons
 ```C++
 ln::Matrix<int> Matrix = {{1, 2, 3, 4, 5}}; 
 ```
+```Ruby
+Matrix:
+[1, 2, 3, 4, 5]
+```
 
 Fill array with a value
 
@@ -30,6 +34,5 @@ Output:
  [3.14159, 3.14159, 3.14159, 3.14159, 3.14159],
  [3.14159, 3.14159, 3.14159, 3.14159, 3.14159],
  [3.14159, 3.14159, 3.14159, 3.14159, 3.14159]]
-
 ```
 
