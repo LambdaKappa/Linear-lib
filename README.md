@@ -17,7 +17,7 @@ Library's "Matrix" class supports a variety of data types and has different cons
 ln::Matrix<int> Matrix = {{1, 2, 3, 4, 5}}; 
 ```
 ```Ruby
-Matrix:
+Output:
 [1, 2, 3, 4, 5]
 ```
 
