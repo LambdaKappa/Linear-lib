@@ -11,7 +11,7 @@ You can include header of the library into your code file like this:
 
 # Create a new Array #
 
-Library's "Matrix" class supports a variety of data types and has different constructors (Currently choice is not that big).
+Library's "Matrix" class supports a variety of data types and has different constructors _(Currently choice is not that big)._
 
 ```C++
 ln::Matrix<int> Matrix = {{1, 2, 3, 4, 5}}; 
