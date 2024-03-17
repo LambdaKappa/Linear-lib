@@ -21,7 +21,7 @@ Output:
 [1, 2, 3, 4, 5]
 ```
 
-Fill array with a value
+##### Fill array with a value #####
 
 ```C++
 ln::Matrix<double> values = ln::fill<double>(5, 5, ln::PI); // Creates a 5x5 array filled with pi
