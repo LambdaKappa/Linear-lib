@@ -12,9 +12,9 @@ You can include library in your code file like this:
 #include "Linear.hpp"
 ```
 
-Your compiler should see the path to **'include'** directory. If you are using the g++ compiler, run
+__Your compiler should see the path to **'include'** directory. If you are using the g++ compiler, run__
 
-the following line of code to make sure the compiler is aware of the code files inside of this directory.
+__the following line of code to make sure the compiler is aware of the code files inside of this directory.__
 
 ```JavaScript
 g++ -Iinclude <filename.cpp> -o <desired_executable_name>
