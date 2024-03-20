@@ -12,6 +12,14 @@ You can include library in your code file like this:
 #include "Linear.hpp"
 ```
 
+Your compiler should see the path to the #### "include" #### directory. If you are using the g++ compiler,
+
+run the following line of code to make sure the compiler is aware of the code files inside of this directory.
+
+```scss
+g++ -Iinclude <filename.cpp> -o <desired_executable_name>
+```
+
 #### 'Matrix' class is the library's main container ####
 Matrix supports a variety of data types and has different constructors _(Currently choice is not that big)._
 
