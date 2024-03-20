@@ -12,9 +12,9 @@ You can include library in your code file like this:
 #include "Linear.hpp"
 ```
 
-Your compiler should see the path to **'include'** directory. If you are using the g++ compiler,
+Your compiler should see the path to **'include'** directory. If you are using the g++ compiler, run
 
-run the following line of code to make sure the compiler is aware of the code files inside of this directory.
+the following line of code to make sure the compiler is aware of the code files inside of this directory.
 
 ```scss
 g++ -Iinclude <filename.cpp> -o <desired_executable_name>
