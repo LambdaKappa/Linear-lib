@@ -16,7 +16,7 @@ Your compiler should see the path to **'include'** directory. If you are using t
 
 the following line of code to make sure the compiler is aware of the code files inside of this directory.
 
-```scss
+```Pascal
 g++ -Iinclude <filename.cpp> -o <desired_executable_name>
 ```
 
