@@ -73,5 +73,5 @@ Output:
 
 #### And much more. ####
 
-Operations like Matrix multiplication are not well optimized and Numpy should handle big Matrices faster. 
+Operations like Matrix multiplication are not well optimized and Numpy should handle bigger Matrices faster. 
 
