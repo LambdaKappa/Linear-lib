@@ -12,7 +12,7 @@ You can include library in your code file like this:
 #include "Linear.hpp"
 ```
 
-Your compiler should see the path to the ** "include" ** directory. If you are using the g++ compiler,
+Your compiler should see the path to the **'include'** directory. If you are using the g++ compiler,
 
 run the following line of code to make sure the compiler is aware of the code files inside of this directory.
 
