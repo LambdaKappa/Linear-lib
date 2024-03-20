@@ -20,7 +20,7 @@ _create executable to make sure the compiler is aware of the code files inside o
 g++ -Iinclude <filename.cpp> -o <desired_executable_name>
 ```
 
-#### 'Matrix' class is the library's main container ####
+### 'Matrix' class is the library's main container ###
 Matrix supports a variety of data types and has different constructors _(Currently choice is not that big)._
 
 #### Create an Array ####
