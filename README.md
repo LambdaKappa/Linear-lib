@@ -7,7 +7,7 @@ I am planning to restucture it completely and add much more to it in the followi
 # Examples of use #
 
 
-You can include library in your code file like this:
+You can include the library in your code file like this:
 ```C++
 #include "Linear.hpp"
 ```
