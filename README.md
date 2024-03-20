@@ -14,7 +14,7 @@ You can include the library in your code file like this:
 
 _Your compiler should see the path to **'include'** directory. If you are using the g++ compiler,_
 
-_create executable to make sure the compiler is aware of the code files inside of this directory._
+_create an executable to make sure the compiler is aware of the code files inside of this directory._
 
 ```JavaScript
 g++ -Iinclude <filename.cpp> -o <desired_executable_name>
